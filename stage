@@ -1,0 +1,12 @@
+######## vmware    #############
+################################
+[vm]
+vagrant@172.20.4.41 ansible_ssh_pass=vagrant
+
+[vm1]
+vagrant@172.20.4.86 ansible_ssh_pass=vagrant
+
+[vmware:children]
+vm
+vm1
+
