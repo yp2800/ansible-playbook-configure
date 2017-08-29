@@ -1,0 +1,4 @@
+---
+# file: groups_vars/vmware
+ntp: 0.debian.pool.ntp.org
+backup: 1.debian.pool.ntp.org

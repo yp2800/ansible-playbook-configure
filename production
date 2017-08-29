@@ -1,0 +1,6 @@
+######## test      #############
+################################
+[test]
+root@192.168.20.130:8822 ansible_ssh_pass=jumeiops
+root@192.168.20.131:8822 ansible_ssh_pass=jumeiops
+#root@192.168.20.135:8822 ansible_ssh_pass=jumeiops
