@@ -1,6 +1,0 @@
----
-- name: apt-get update
-  command: apt-get update
-
-- name: restart ntpd
-  service: name=ntp state=restarted

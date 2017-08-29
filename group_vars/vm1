@@ -1,4 +1,0 @@
----
-# file: groups_vars/vm1
-ntp: 2.debian.pool.ntp.org
-backup: 4.debian.pool.ntp.org

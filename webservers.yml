@@ -1,6 +1,0 @@
----
-- hosts: vm
-  roles:
-    - common
-    - nginx
-    - php-fpm
